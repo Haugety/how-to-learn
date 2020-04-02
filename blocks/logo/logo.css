@@ -1,0 +1,11 @@
+@import url(./_place/logo_place_header.css);
+@import url(./_place/logo_place_footer.css);
+
+.logo {
+  z-index: 3;
+  transition: opacity 0.1s ease-in;
+}
+
+.logo:hover {
+  opacity: 0.7;
+}
