@@ -3,6 +3,9 @@
   color: #2F80ED;
   z-index: 2;
   transition: opacity 0.1s ease-in;
+  border: none;
+  background-color: inherit;
+  outline: none;
 }
 
 .header__link:hover {
